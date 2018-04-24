@@ -1,6 +1,6 @@
 # Informed Voter
 
-An app for finding your and your friends polling stations and sharing them via iMessage.
+A mobile app for finding your and your friends polling stations and sharing them via iMessage.
 
 This app is no longer maintained or on the App Store so it was open sourced.
 
